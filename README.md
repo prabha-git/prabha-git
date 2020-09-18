@@ -3,7 +3,8 @@
 ## Contents
 
 * ### Google Cloud
-  * [Creating history for chicago crime data](https://github.com/prabha-git/chicago_crime)
+  * [Creating history for chicago crime data](https://github.com/prabha-git/chicago_crime/?target=_blank)
+
 
 
 <!--
