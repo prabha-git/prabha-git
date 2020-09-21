@@ -5,6 +5,8 @@
 * ### Google Cloud
   * [Creating history for chicago crime data](https://github.com/prabha-git/chicago_crime/). Deployed the ETL pipeline in google cloud run and scheduled using google schedular. The code for ETL is dockerized so that it is easily deployable in google cloud run.
 
+* ### Statistics
+  * [Harcker Rank 10 days Stats Challenge](https://github.com/prabha-git/hackerrank_10daysofstats). Practice of stats in Hacker Rank.
 
 
 <!--
