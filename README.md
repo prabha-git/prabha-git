@@ -8,6 +8,8 @@
 * ### Statistics
   * [Harcker Rank 10 days Stats Challenge](https://github.com/prabha-git/hackerrank_10daysofstats). Practice of stats in Hacker Rank.
 
+* ### Visualization
+  * [Country Size treemap](https://github.com/prabha-git/visualization/blob/main/Country-Size.md)
 
 <!--
 **prabha-git/prabha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
