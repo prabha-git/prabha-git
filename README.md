@@ -10,6 +10,7 @@
 
 * ### Visualization
   * [Country Size treemap](https://github.com/prabha-git/visualization/blob/main/Country-Size.md)
+  * [Covid 19 In India Trend](https://covid19-india-5aqq6n7qkq-uc.a.run.app) - App deployed in Google cloud Run
 
 <!--
 **prabha-git/prabha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
