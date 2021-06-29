@@ -1,6 +1,9 @@
 # Prabha Arivalagan
 
-## Contents
+## Projects
+
+* ### Data Science
+  * [House Price Prediction](https://nbviewer.jupyter.org/github/prabha-git/kaggle/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/House%20Price%20Prediction.ipynb) Predicting the house prices in Ames, Iowa based on the 79 features available in the dataset provided in the [kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Applied DecisionTree, RandomForest algorithms to predict the price.
 
 * ### Google Cloud
   * [Creating history for chicago crime data](https://github.com/prabha-git/chicago_crime/). Chicago crime is a open source data available at chicago city web portal, but this data does not have historical changes(example when arrest was made). Deployed the ETL pipeline in google cloud run and scheduled using google schedular in order to maintain the historical changes in google Big Query.
