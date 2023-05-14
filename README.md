@@ -1,5 +1,8 @@
 # Prabha Arivalagan
 
+## Medium Blogs
+https://medium.com/@prabhakaranarivalagan_5097
+
 ## Projects
 
 * ### Data Science
