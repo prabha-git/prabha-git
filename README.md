@@ -1,7 +1,7 @@
 # Prabha Arivalagan
 
 ## Medium Blogs
-https://medium.com/@prabhakaranarivalagan_5097
+https://medium.com/@prabhakaran_arivalagan
 
 ## Projects
 
