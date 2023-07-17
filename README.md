@@ -5,6 +5,9 @@ https://medium.com/@prabhakaran_arivalagan
 
 ## Projects
 
+* ### Looker
+  * [Looker Localization Automation](https://github.com/prabha-git/looker-localization-automation) Open-sourced the code to automate the Localization of Looker explore using Google translate API.
+
 * ### Data Science
   * [House Price Prediction](https://nbviewer.jupyter.org/github/prabha-git/kaggle/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/House%20Price%20Prediction.ipynb) Predicting the house prices in Ames, Iowa based on the 79 features available in the dataset provided in the [kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). Applied DecisionTree, RandomForest algorithms to predict the price.
 
