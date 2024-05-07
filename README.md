@@ -1,7 +1,9 @@
 # Prabha Arivalagan
 
-## Medium Blogs
-https://medium.com/@prabhakaran_arivalagan
+## Blogs
+[https://medium.com/@prabhakaran_arivalagan](https://medium.com/@prabhakaran_arivalagan)
+
+[https://prabha.ai](https://prabha.ai/writing/)
 
 ## Projects
 
